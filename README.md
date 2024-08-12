@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+<div style={{ textAlign: 'justify' }}>
 I am a doctoral student at Bocconi University in Milan, specializing in Economics and Finance. My research interests cover a range of topics, including Development Economics, Gender Economics, and Behavioural Economics. I am also actively involved in Data Science and Machine Learning, exploring their applications in economic research and seeking innovative solutions to complex economic problems.
-
+</div>
 <!--
 **milindv26/milindv26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
