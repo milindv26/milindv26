@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-This is Milind. I am presently pursuing my doctoral studies in Economics and Finance at Bocconi University, Milan.  
-My academic endeavors are primarily centered around exploring the intricacies of Behavioural Economics,  
-delving into the realms of Data Science, and mastering the nuances of Machine Learning.
+I am a doctoral student at Bocconi University in Milan, specializing in Economics and Finance. My research interests cover a range of topics, including Development Economics, Gender Economics, and Behavioural Economics. I am also actively involved in Data Science and Machine Learning, exploring their applications in economic research and seeking innovative solutions to complex economic problems.
 
 <!--
 **milindv26/milindv26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
